@@ -21,5 +21,5 @@
 <h2 align="center">Languages - Frameworks - Tools </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,github,laravel,javascript,firebase,mongodb,tailwindcss,vuejs,npm"/><br>
-    <img src="https://skillicons.dev/icons?i=photoshop,angular,bootstrap,mysql,html,css,vscode,figma,git,googlebard,axios,Laragon"/>
+    <img src="https://skillicons.dev/icons?i=photoshop,angular,bootstrap,mysql,html,css,vscode,figma,git,googlebard"/>
 </div>
