@@ -15,6 +15,6 @@
 <hr/>
 <h2 align="center">Languages - Frameworks - Tools </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,laravel,javascript,php,firebase,mongodb,tailwindcss"/><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,flask,html,css,vscode,figma,git"/>
+    <img src="https://skillicons.dev/icons?i=php,github,laravel,javascript,firebase,mongodb,tailwindcss,vuejs"/><br>
+    <img src="https://skillicons.dev/icons?i=angularjs,bootstrap,mysql,html,css,vscode,figma,git"/>
 </div>
