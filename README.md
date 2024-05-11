@@ -20,6 +20,6 @@
 <hr/>
 <h2 align="center">Languages - Frameworks - Tools </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,github,laravel,javascript,firebase,mongodb,tailwindcss,vuejs"/><br>
-    <img src="https://skillicons.dev/icons?i=photoshop,angular,bootstrap,mysql,html,css,vscode,figma,git"/>
+    <img src="https://skillicons.dev/icons?i=php,github,laravel,javascript,firebase,mongodb,tailwindcss,vuejs,openai"/><br>
+    <img src="https://skillicons.dev/icons?i=photoshop,angular,bootstrap,mysql,html,css,vscode,figma,git,googlebard,angularjs"/>
 </div>
