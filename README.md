@@ -1,8 +1,8 @@
 <div align="center">
-<strong><h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&random=false&width=450&height=60&lines=Le+Quoc+Hung" alt="Typing SVG" /></a></h1></strong> <hr/>  
+<strong><h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=450&height=60&lines=Le+Quoc+Hung" alt="Typing SVG" /></a></h1></strong> <hr/>  
 </div>
 <div align="center">
-  <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3AF700&random=false&width=450&height=60&lines=BackEnd+Developer" alt="Typing SVG" /></a></h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=3AF700&center=true&vCenter=true&random=false&width=450&height=60&lines=BackEnd+Developer" alt="Typing SVG" /></a>
 </div>
 <div align="center">
   <strong>- 👋 Hi, I’m Quoc Hung, From Viet Nam.</strong>
