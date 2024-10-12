@@ -6,7 +6,6 @@
 </div>
 <div align="center">
   <strong>- 👋 Hi, I’m Quoc Hung, From Viet Nam.</strong>
-  <h3>I'm currently learning <img src="https://skillicons.dev/icons?i=nodejs"/>NodeJS, <img src="https://skillicons.dev/icons?i=react"/>ReactJS. </h3>
 </div>
 <div align = "center">
   <a href ="mailto:quochung190904@gmail.com">
